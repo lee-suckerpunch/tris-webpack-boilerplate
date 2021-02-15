@@ -1,13 +1,9 @@
 {
-  "name": "tris-webpack-boilerplate",
+  "name": "mark-retirement-countdown",
   "version": "1.0.0",
   "private": true,
-  "description": "A webpack boilerplate for static websites that has all the necessary modern tools and optimizations built-in.",
+  "description": "Mark's retirement countdown",
   "keywords": [],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/tr1s/tris-webpack-boilerplate"
-  },
   "license": "ISC",
   "author": "tr1s",
   "scripts": {
@@ -53,6 +49,7 @@
     "node-sass": "^4.14.1",
     "prettier": "2.0.5",
     "sass-loader": "^9.0.2",
+    "simplycountdown.js": "^1.7.0",
     "style-loader": "^1.2.1",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.12",

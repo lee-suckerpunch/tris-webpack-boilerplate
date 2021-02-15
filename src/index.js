@@ -7,4 +7,6 @@ import './index.html';
 import './index.scss';
 import './scripts/script';
 
+import './scripts/simplyCountdown';
+
 OfflinePluginRuntime.install();
